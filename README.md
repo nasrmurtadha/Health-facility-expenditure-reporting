@@ -10,7 +10,7 @@ I defined the workflow requirements, guided the AI-assisted development, reviewe
 **Tools:** Microsoft Excel • AI-assisted workflows • Data validation • Dashboards
 ### Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard2.png)
 
 ### Expenditure Plan
 
