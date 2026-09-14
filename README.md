@@ -8,3 +8,18 @@ I defined the workflow requirements, guided the AI-assisted development, reviewe
 
 **Current stage:** Excel-based functional prototype  
 **Tools:** Microsoft Excel • AI-assisted workflows • Data validation • Dashboards
+### Dashboard
+
+![Dashboard](dashboard.png)
+
+### Expenditure Plan
+
+![Expenditure Plan](expenditure-plan.png)
+
+### Actual Expenses
+
+![Actual Expenses](actual-expenses.png)
+
+### Facility Plan
+
+![Facility Plan](facility-plan.png)
