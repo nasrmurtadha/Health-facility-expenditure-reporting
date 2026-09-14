@@ -1,31 +1,10 @@
-# Health Facility Expenditure Reporting & Monitoring Prototype
+# Health Facility Expenditure Reporting Prototype
 
-An AI-assisted Excel prototype designed to improve the organization, monitoring, validation, and reporting of operational expenditures across multiple health facilities.
+An AI-assisted Excel prototype developed to improve the organization and monitoring of operational expenditure reporting across multiple health facilities.
 
-## Project Context
+The project responds to common challenges in paper-based and fragmented reporting workflows, such as repeated manual calculations, limited traceability, and difficulty consolidating information across facilities. The prototype brings facility records, financial transfers, expenditure plans, actual spending, validation checks, alerts, clearance reporting, and dashboards into one structured workflow.
 
-The project was developed in response to challenges commonly associated with paper-based and fragmented reporting workflows in health facilities, including delayed reporting, repeated manual calculations, difficulty tracking expenditures, and limited visibility across multiple facilities.
+I defined the workflow requirements, guided the AI-assisted development, reviewed the formulas and outputs, corrected inconsistencies, and refined the workbook iteratively.
 
-## What the Prototype Does
-
-The workbook organizes key operational processes into a structured workflow covering health-facility records, financial transfers, reporting periods, expenditure plans, actual expenditures, validation checks, clearance reporting, alerts, and monitoring dashboards.
-
-The prototype is designed to support clearer data organization, easier review, and more consistent reporting.
-
-## My Role
-
-I identified the operational problem, defined the required workflow, used AI-assisted development to help structure formulas and reporting logic, reviewed and tested outputs, corrected inconsistencies, and refined the workbook iteratively.
-
-## Current Stage
-
-This is an Excel-based functional prototype.
-
-It is not a deployed government information system and does not currently include cloud hosting, role-based access control, centralized databases, or production-level audit trails.
-
-## Future Direction
-
-The concept could be extended into a cloud-based reporting platform with structured digital forms, centralized databases, role-based review, audit trails, dashboards, and analytics.
-
-## Tools
-
-Microsoft Excel • AI-assisted workflows • Data validation • Automated formulas • Dashboards
+**Current stage:** Excel-based functional prototype  
+**Tools:** Microsoft Excel • AI-assisted workflows • Data validation • Dashboards
