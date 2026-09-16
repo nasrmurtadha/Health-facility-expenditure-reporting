@@ -6,12 +6,14 @@ I defined the workflow requirements, guided the AI-assisted development, reviewe
 **Tools:** Microsoft Excel • AI-assisted workflows • Data validation • Dashboards
 ### Dashboard
 ![Dashboard](dashboard2.png)
+Facility-level monitoring dashboard summarizing expenditure status and reporting indicators.
 
 ### Expenditure Plan
 ![Expenditure Plan](expenditure-plan.png)
-
+Structured expenditure planning sheet linking budget lines, reporting periods, and facility-level allocations.
 ### Actual Expenses
 ![Actual Expenses](actual-expenses.png)
-
+Actual expenditure register designed to support transaction tracking and reconciliation.
 ### Facility Plan
 ![Facility Plan](facility-plan.png)
+Facility planning structure used to organize activities, allocation categories, and implementation status.
